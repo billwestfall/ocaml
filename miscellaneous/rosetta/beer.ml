@@ -2,7 +2,7 @@
 
 let i = ref 99;;
 
-while !i = 10 do
+while !i >= 1 do
 
   i := !i - 1;
 
