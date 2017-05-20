@@ -1,4 +1,5 @@
 (* 99 beers in ocaml *)
+(* run as ocaml beer.ml *)
 
 let i = ref 99;;
 
