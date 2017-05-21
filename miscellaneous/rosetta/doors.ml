@@ -8,7 +8,7 @@ while !i >= 1 do
   if i = j
   then print_int !i
   else 
-  i := !i - 1;;
+  i := !i - 1;
 
   print_int !i
 
